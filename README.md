@@ -16,7 +16,7 @@
   </a>
 <!--  numpy  -->
   <a href="https://numpy.org/" target="_blank"> <img
-      src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" height="45"/>
+      src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" height="40"/>
   </a>
 <!--  colab  -->
   <a href="https://colab.research.google.com " target="_blank"> <img
