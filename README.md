@@ -29,9 +29,9 @@
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png"
       width="40">
-      <a href="https://github.com/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png" alt="github" width="40" height="40" />
-  </a>
+    <img alt="https://www.java.com/"
+      src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
+      width="40">
   </picture>
   <a href="https://cppreference.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40" />
