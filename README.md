@@ -18,6 +18,10 @@
   <a href="https://numpy.org/" target="_blank"> <img
       src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" height="40"/>
   </a>
+<!--  pytorch  -->
+<a href="https://pytorch.org/" target="_blank"> <img
+    src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.1c19d88dac.svg" alt="Pytorch" height="40"/>
+</a>
 <!--  colab  -->
   <a href="https://colab.research.google.com " target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
