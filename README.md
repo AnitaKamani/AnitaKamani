@@ -26,11 +26,11 @@
   <a href="https://colab.research.google.com " target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
       alt="Google Colaboratory" width="40" height="40" />
-  </a>
+  </a>&nbsp;
 <!--  keras  -->
   <a href="https://keras.io/" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" />
-  </a>
+  </a>&nbsp;
 <!--  github  -->
   <a href="https://github.com/">
     <picture>
@@ -44,7 +44,7 @@
         src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
         width="40">
     </picture>
-  </a>
+  </a>&nbsp;
 <!--  cpp  -->
   <a href="https://cppreference.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40" />
