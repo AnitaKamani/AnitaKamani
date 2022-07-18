@@ -32,13 +32,13 @@
     <picture>
       <source media="(prefers-color-scheme: dark)"
         srcset="./keras_dark.png"
-        width="35">
+        width="38">
       <source media="(prefers-color-scheme: light)"
         srcset="./keras_light.png"
-        width="35">
+        width="38">
       <img alt="github"
         src="./keras_dark.png"
-        width="35">
+        width="38">
     </picture>
   </a>&nbsp;
 <!--  github  -->
