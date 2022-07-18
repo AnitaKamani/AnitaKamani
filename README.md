@@ -45,6 +45,10 @@
         width="40">
     </picture>
   </a>&nbsp;
+<!--  matplotlib  -->
+<!--   <a href="https://matplotlib.org/" target="_blank"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" />
+  </a> -->
 <!--  cpp  -->
   <a href="https://cppreference.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40" />
