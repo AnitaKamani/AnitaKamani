@@ -3,24 +3,31 @@
 </p>
 
 
-
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
 <p align="center">
+<!--  python  -->
   <a href="https://www.python.org/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40"
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="40"
       height="40" />
   </a>
+<!--  numpy  -->
+  <a href="https://numpy.org/" target="_blank"> <img
+      src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" height="45"/>
+  </a>
+<!--  colab  -->
   <a href="https://colab.research.google.com " target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
       alt="Google Colaboratory" width="40" height="40" />
   </a>
+<!--  keras  -->
   <a href="https://keras.io/" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" />
   </a>
+<!--  github  -->
   <a href="https://github.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)"
@@ -34,9 +41,11 @@
         width="40">
     </picture>
   </a>
+<!--  cpp  -->
   <a href="https://cppreference.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40" />
   </a>
+<!--  java  -->
   <a href="https://www.java.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40" />
   </a>
