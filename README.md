@@ -30,7 +30,7 @@
       srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png"
       width="40">
       <a href="https://github.com/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png" alt="github" width="40" height="40" />
+      src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png" alt="github" width="40" height="40" />
   </a>
   </picture>
   <a href="https://cppreference.com/" target="_blank"> <img
