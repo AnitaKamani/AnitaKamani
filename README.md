@@ -42,15 +42,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=radical"
     width="400" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=solarized-light&show_icons=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=solarized-light"
-    width="400" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=swift&show_icons=true" width="410" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=swift"
     width="400" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=buefy&show_icons=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=buefy"
-    width="400" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
