@@ -55,7 +55,7 @@
   </a>
 <!--  java  -->
   <a href="https://www.java.com/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40" />
+      src="./java.svg" alt="java" width="40" height="40" />
   </a>
 </p>
 <br />
