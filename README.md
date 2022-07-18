@@ -21,8 +21,18 @@
   </a>
   <a href="https://www.github.com" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40" /> </a>
+  
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="github.com" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+  
   <img alt="https://www.github.com" width="40px"
     src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
+  
+  
   <a href="https://cppreference.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40" /> </a>
   <a href="https://www.java.com/" target="_blank"> <img
@@ -37,20 +47,28 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=radical&show_icons=true"
-    width="410" />
+  
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=radical&show_icons=true" width="410" >
+  <img alt="github.com" src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=swift&show_icons=true)" width="410" >
+</picture>
+  
+  
+  
+  
+<!--   <img src=""
+    width="410" /> -->
+ 
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=radical"
     width="400" />
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=swift&show_icons=true" width="410" />
+<!--   <img src="" width="410" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=swift"
     width="400" />
 
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
