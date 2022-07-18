@@ -28,8 +28,18 @@
       alt="Google Colaboratory" width="40" height="40" />
   </a>&nbsp;
 <!--  keras  -->
-  <a href="https://keras.io/" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" />
+  <a href="https://leras.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="./keras_dark.png"
+        width="35">
+      <source media="(prefers-color-scheme: light)"
+        srcset="./keras_light.png"
+        width="35">
+      <img alt="github"
+        src="./keras_dark.png"
+        width="35">
+    </picture>
   </a>&nbsp;
 <!--  github  -->
   <a href="https://github.com/">
