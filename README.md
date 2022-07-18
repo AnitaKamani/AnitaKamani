@@ -47,7 +47,7 @@
     
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=radical" width="410" >
-  <img alt="github.com" src="[https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=swift&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=swift)" width="410" >
+  <img alt="github.com" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=swift" width="410" >
 </picture>
   
  
