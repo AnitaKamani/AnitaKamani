@@ -42,8 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=radical"
     width="400" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=vue&show_icons=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=vue"
+  <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=solarized-light&show_icons=true" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaKamani&layout=compact&theme=solarized-light"
     width="400" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=AnitaKamani&theme=swift&show_icons=true" width="410" />
