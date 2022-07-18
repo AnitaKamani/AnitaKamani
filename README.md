@@ -31,13 +31,13 @@
   <a href="https://leras.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-        srcset="./keras_dark.png"
+        srcset="./pics/keras_dark.png"
         width="38">
       <source media="(prefers-color-scheme: light)"
-        srcset="./keras_light.png"
+        srcset="./pics/keras_light.png"
         width="38">
       <img alt="github"
-        src="./keras_dark.png"
+        src="./pics/keras_dark.png"
         width="38">
     </picture>
   </a>&nbsp;
@@ -65,7 +65,7 @@
   </a>
 <!--  java  -->
   <a href="https://www.java.com/" target="_blank"> <img
-      src="./java.svg" alt="java" width="40" height="40" />
+      src="./pics/java.svg" alt="java" width="40" height="40" />
   </a>
 </p>
 <br />
