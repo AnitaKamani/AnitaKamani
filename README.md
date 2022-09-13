@@ -9,11 +9,18 @@
 </p>
 <br />
 <p align="center">
-<!--  python  -->
+<!--  Python  -->
   <a href="https://www.python.org/" target="_blank"> <img
       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="40"
       height="40" />
   </a>
+  &nbsp;
+<!--  JS  -->
+<a href="https://www.javascript.com/" target="_blank"> <img
+    src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" width="40"
+    height="40" />
+</a>
+&nbsp;
 <!--  numpy 
   <a href="https://numpy.org/" target="_blank"> <img
       src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" height="40"/>
