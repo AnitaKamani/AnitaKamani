@@ -33,7 +33,8 @@
   <a href="https://colab.research.google.com " target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
       alt="Google Colaboratory" width="40" height="40" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
 <!--  keras  -->
   <a href="https://leras.io/">
     <picture>
@@ -47,7 +48,8 @@
         src="./pics/keras_dark.png"
         width="38">
     </picture>
-  </a>&nbsp;
+  </a>
+  &nbsp;
 <!--  github  -->
   <a href="https://github.com/">
     <picture>
@@ -61,7 +63,8 @@
         src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
         width="40">
     </picture>
-  </a>&nbsp;
+  </a>
+  &nbsp;
 <!--  matplotlib  -->
 <!--   <a href="https://matplotlib.org/" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" />
